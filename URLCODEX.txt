@@ -1,0 +1,7 @@
+0 = best desc
+1 = star desc
+2 = star asc
+3 = forks desc
+4 = forks asc
+5 = updated desc
+6 = updated asc
