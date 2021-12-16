@@ -1,0 +1,686 @@
+﻿URLCODE,tags_c,Stars,Text_Cleaned,MajLang,License,LastUpdated
+4,,21,"['collection', 'exercise', 'pandas', 'numpy', 'sklearn', 'beginners']",0,0,8-Jun-21
+4,,7,"['web', 'application', 'created', 'using', 'streamlit', 'host', 'intelligent', 'salary', 'predictor', 'project', 'returns', 'position']",0,0,27-Jul-21
+4,"['data-science', 'r', 'rstats', 'citz']",8,"['evalparse', 'io']",1,0,7-Apr-19
+4,,21,"['collection', 'projects']",1,0,7-Nov-20
+4,,11,"['3', 'weeks', 'insight', 'project']",0,0,29-Jun-20
+4,"['machine-learning', 'data-science', 'logistic-regression', 'heroku-deployment', 'streamlit-webapp']",11,"['cloud', 'agnostic', 'productivity', 'tool']",0,MIT license,8-Sep-21
+4,,4,"['decision', 'tree', 'using', 'abalone', 'dataset']",0,0,27-Nov-19
+4,,5,"['welcome', 'repository', 'includes', 'code', 'required', 'dealing', 'matrices', 'data', 'frames']",1,0,23-Jul-21
+4,"['python', 'machine-learning', 'data-science', 'scikit-learn', 'lib', 'async', 'rest-api', 'lib', 'pytorch', 'dataframe', 'serving']",5,"['welcome', 'repository', 'includes', 'code', 'required', 'dealing', 'matrices', 'data', 'frames']",1,0,23-Jul-21
+4,,17,"['foundational', 'tools', 'bcg', 'gammas', 'packages']",0,Apache-2.0 license,22-Oct-21
+4,,7,"['spatial', 'conference', 'workshop', 'introduction', 'spatial']",1,0,15-Oct-19
+4,,5,"['open', 'solution', '2018', 'bowl', 'competition', 'kaggle', '28th', 'place', '0', '569', 'miou', 'score']",0,0,15-Aug-18
+4,,5,"['collection', 'projects', 'part', 'program', 'greyatom', 'edutech', 'pvt', 'ltd']",0,MIT license,1-May-20
+4,,4,"['one', 'stop', 'repo', 'along', 'roadmap']",0,0,3-Sep-21
+4,,4,"['crack', 'bowl', 'challenge', '2017', 'using', 'spie', 'aapm', 'lung', 'ct', 'dataset']",0,0,25-Aug-21
+4,,4,"['collection', 'projects', 'learning']",0,0,3-May-18
+4,,4,"['sample', 'codes', 'introduction', 'help', 'work']",0,0,15-Nov-17
+4,,3,"['package', 'functions', 'streamline', 'projects']",1,0,8-Jun-18
+4,,3,"['non', 'intrusive', 'load', 'monitoring']",0,GPL-3.0 license,3-Oct-19
+4,,7,"['visualization', 'gui', 'application']",0,0,9-Apr-17
+4,,13,"['analysing', 'capture', 'seq', 'count', 'data']",1,0,11-Jun-18
+4,,11,"['utilities', 'statistics', 'machine', 'learning']",0,BSD-3-Clause license,4-Dec-19
+4,,4,"['equity', 'performance', 'analysis', 'prediction', 'stock', 'value', 'using', 'various', 'machine', 'learning', 'models']",0,0,12-Feb-19
+4,,4,"['equity', 'performance', 'analysis', 'prediction', 'stock', 'value', 'using', 'various', 'machine', 'learning', 'models']",0,0,12-Feb-19
+4,,6,"['project', 'archetype', 'worfklows']",1,0,23-Apr-21
+4,,6,"['text', 'technologies', 'group', 'assignment']",0,0,7-Feb-19
+4,,3,"['web', 'application', 'visualizing', 'road', 'accidents', 'new', 'york', 'city']",0,0,4-Jun-20
+4,,3,"['analysing', 'german', 'ds', 'job', 'market']",1,0,26-Aug-17
+4,,3,"['private', 'science', 'data', 'sharing']",0,0,16-Jan-18
+4,,4,"['freecodecamp', 'course', 'build', 'interactive', 'data', 'driven', 'web', 'apps', 'using', 'streamlit', 'library']",0,MIT license,7-May-21
+4,,8,"['collaboration', 'tool', 'based', 'ipython', 'notebooks']",0,MIT license,17-Oct-17
+4,,3,"['collection', 'projects', 'part', 'program', 'greyatom', 'edutech', 'pvt', 'ltd']",0,MIT license,7-Jun-20
+4,,3,"['tools', 'libs', 'scripts', 'related', 'usage']",0,0,8-Apr-15
+4,,3,"['data', 'shopify', 'app', 'stores', 'ratings', 'reviews', 'kaggle', 'used', 'exploratory', 'data', 'analysis', 'practice', 'data']",0,0,4-Mar-19
+4,,3,"['2020', '2021', 'fall', 'algorithm', 'foundations']",0,0,31-Jan-21
+4,[],3,"['collection', 'projects', 'part', 'program', 'greyatom', 'edutech', 'pvt', 'ltd']",0,MIT license,3-Nov-20
+4,,2,"['bloggers', 'bot', 'mini', 'project', 'stay', 'date', 'world', 'tracking', 'hundreds']",0,0,4-Apr-18
+4,,2,"['collection', 'various', 'related', 'files']",0,0,17-May-20
+4,[],2,"['study', 'basic', 'ml', 'tools', 'methods']",1,0,9-Dec-20
+4,[],2,"['homework', 'data', 'engine', 'science']",0,0,2-Aug-20
+4,,2,"['exercises', 'project', 'ut', 'econ', 'data', 'mining', 'statistical', 'learning', 'class']",1,0,8-May-20
+4,,2,"['combine', 'data']",0,0,6-May-15
+4,[],2,"['portfolio', 'projects', 'completed', 'academic', 'self', 'learning', 'hobby', 'purposes']",0,0,25-Aug-21
+4,,5,"['project', 'streamlining', 'large', 'scale', 'etl', 'pipelines']",0,0,14-Oct-21
+4,,2,"['example', 'data', 'music', 'science', 'projects']",1,0,15-Apr-21
+4,,0,"['collection', 'projects']",1,0,4-Jan-21
+4,,0,"['projects', 'related', 'learning']",0,0,16-Oct-19
+4,,0,"['collection', 'projects']",1,0,4-Jan-21
+4,"['data-science', 'data', 'package', 'data-visualization', 'matrices', 'basics', 'data-frames', 'ggplot2-themes', 'ggplot2-geom']",2,"['code', 'related', 'datascience', 'machinelearning']",0,0,16-May-18
+4,,2,"['repository', 'contains', 'assignments', 'lab', 'works', 'specially', 'web', 'scrapting', 'like', 'extract', 'data', 'github']",0,0,17-Feb-20
+4,,2,"['repository', 'contains', 'assignments', 'lab', 'works', 'specially', 'web', 'scrapting', 'like', 'extract', 'data', 'github']",0,0,17-Feb-20
+4,,4,"['capstone', 'project', 'galvanize', 'course']",0,0,23-Sep-15
+4,,4,"['capstone', 'project', 'galvanize', 'course']",0,0,23-Sep-15
+4,,4,"['frictionless', 'json', 'data', 'packages', 'life', 'science']",0,AGPL-3.0 license,28-Sep-20
+4,,2,"['additional', 'materials', 'machine', 'learning', 'marcin', 'szeliga']",1,0,12-Sep-17
+4,,2,"['machine', 'learning', 'data', 'analysis']",1,0,7-Jun-21
+4,,2,"['project', 'dedicated', 'download', 'concatenate', 'distribute', 'databases', 'made', 'available', 'department', 'infor']",1,0,15-Jan-19
+4,,6,"['airflow', 'plugin', 'pipeline', 'visualisation']",0,Apache-2.0 license,27-Dec-19
+4,,3,"['codes', '1', 'wos', 'author', 'disambiguation', '2', 'crawler']",0,0,17-Apr-18
+6,,1,"['classic', 'computer', 'science', 'algorithms', 'data', 'structures']",0,0,1-Apr-10
+6,,1,"['solutions', 'exercises', 'bevington', 'data', 'reduction', 'error', 'analysis', 'physical', 'sciences']",0,0,20-Apr-10
+6,,2,"['scrape', 'data', 'uk', 'engineering', 'physical', 'sciences', 'research', 'council', 'grants', 'web', 'service']",0,0,14-Jul-11
+6,,2,"['framework', 'pyon', 'science', 'data', 'processes']",0,0,4-Nov-11
+6,,2,"['assignment', '1', 'course', 'uc', 'berkeley']",0,0,1-Mar-12
+6,,2,"['prototypes', 'ooici', 'science', 'data', 'model', 'fenics']",0,0,4-May-12
+6,,2,"['code', 'behind', 'team', 'global', 'hackathon', 'air', 'quality', 'prediction', 'submissions']",1,0,9-May-12
+6,,2,"['package', 'containing', 'data', 'sets', '6th', 'edition', 'devore', 'prob', 'stats', 'engr', 'sciences']",1,0,31-May-12
+6,,22,"['simple', 'implementations', 'tools', 'use', 'newspaper', 'reporters']",0,0,5-Jun-12
+6,"['visualization', 'python', 'documentation', 'parallelization', 'data-simulation', 'expression-parser', 'runtime-validation', 'api-development']",1,"['libraries', 'support', 'common', 'kinds', 'work']",0,0,9-Jun-12
+6,,115,"['code', 'documentation', 'introduction', 'jeffrey', 'stanton']",1,0,11-Jun-12
+6,,1,"['reading', 'jeff', 'stanton', 'book']",1,0,2-Aug-12
+6,,10,"['code', 'emi', 'music', 'hackathon']",0,0,4-Aug-12
+6,,0,"['hst', 'jwst', 'science', 'data', 'processing', 'queue']",0,0,16-Aug-12
+6,,5,"['large', 'hadron', 'collider', 'data', 'hack', 'science', 'hack', 'day', 'nairobi', '2012']",0,0,20-Aug-12
+6,,0,"['code', 'used', 'emc', 'challenge', 'kaggle', 'competition']",0,0,4-Oct-12
+6,,0,"['visualization', 'examples', 'time', 'series', 'analysis', 'large', 'scale', 'data', 'processing']",1,0,25-Oct-12
+6,,0,"['exercises', 'repository', 'name', 'misspelled', 'avoid', 'collisions']",0,0,27-Oct-12
+6,,10,"['code', 'slides', 'dc', 'meetup', 'talk']",0,0,20-Nov-12
+6,,1,"['examples', 'included', 'book', 'data', 'analysis']",0,0,4-Dec-12
+6,,7,"['code', 'columbia', 'final', 'project', 'kaggle', 'competition', 'automated', 'essay', 'grading', 'system']",1,0,11-Dec-12
+6,,1,"['repo', 'homework', 'done', 'uw', 'pce', 'class']",0,0,11-Dec-12
+6,"['machine-learning', 'lib', 'python', 'data-analysis', 'data-science']",1,"['final', 'project', 'columbia', 'w4242', 'introduction']",1,0,11-Dec-12
+6,,1,"['political', 'science', 'data', 'dive', '2012', '12', '08', 'results']",1,0,14-Dec-12
+6,,1,"['insight', 'january', '2013', 'data', 'project', 'repository']",0,0,4-Mar-13
+6,,0,"['practicum', 'csce', '489', 'intro', 'google', 'charts']",0,0,22-Mar-13
+6,,1,"['repository', 'data', 'collection', 'exercise', 'class']",0,0,30-Mar-13
+6,,0,"['repo', 'submitting', 'general', 'assembly', 'coursework']",1,0,2-Apr-13
+6,,0,"['final', 'project', 'intro', 'texas', 'university']",0,0,28-Apr-13
+6,,0,"['scripts', 'used', 'coursera', 'intro']",0,0,6-May-13
+6,,0,"['code', 'recognize', 'expressions', 'kaggle', 'competition', 'sponsored', 'icml']",0,0,7-May-13
+6,,13,"['analysis', 'sentiments', 'tweets', 'using', 'twitter', 'api', 'class']",0,0,7-May-13
+6,,2,"['coursera', 'introduction', 'assignment', '1']",0,0,10-May-13
+6,,46,"['currently', 'taking', 'course', 'coursera', 'org', 'called', 'introduction', 'first', 'programming', 'assignment']",0,0,10-May-13
+6,,0,"['repo', 'programing', 'assignments', 'introduction', 'university', 'washington', 'coursera']",0,0,10-May-13
+6,"['python', 'pytorch', 'unet']",0,"['coursa', 'class', 'introduction']",0,0,11-May-13
+6,,1,"['based', 'sentiment', 'analyzer', 'twitter', 'tweets']",0,0,11-May-13
+6,,0,"['assignments', 'projects', 'coursera', 'introduction', 'bill', 'howe']",0,0,12-May-13
+6,,0,"['code', 'coursea', 'introduction']",0,0,13-May-13
+6,,0,"['homework', 'intro', 'coursera']",0,0,13-May-13
+6,,0,"['assigenment', 'introduction', 'course', 'coursera', 'make', 'social', 'measurements', 'using']",0,0,13-May-13
+6,,0,"['introduction', 'course']",0,0,15-May-13
+6,,0,"['classwork', 'ga', 'students', 'pull']",1,0,15-May-13
+6,,0,"['assignment', '1', 'coursera', 'intro']",0,0,16-May-13
+6,,0,"['introduction', 'university', 'washington']",0,0,17-May-13
+6,,0,"['code', 'solution', 'backup', 'classes', 'backup']",0,0,20-May-13
+6,,1,"['assignments', 'coursera', 'course', 'introduction']",0,0,20-May-13
+6,[],0,"['intro', 'university', 'washington', 'coursera']",0,0,22-May-13
+6,,0,"['repo', 'assignments', 'coursera', 'course', 'introduction']",0,0,22-May-13
+6,,2,"['work', 'university', 'washington', 'course', 'summer', '2013']",0,0,25-May-13
+6,,0,"['scripts', 'something', 'else']",0,0,28-May-13
+6,,0,"['assignment', 'introduction']",0,0,28-May-13
+6,,1,"['coursera', 'introduction', 'assignments']",0,0,28-May-13
+6,,1,"['introduction', 'taught', 'bill', 'howe', 'join', 'data', 'revolution', 'companies', 'searching', 'data', 'scienti']",0,0,29-May-13
+6,[],0,"['repository', 'training', 'general', 'assembly']",1,0,29-May-13
+6,,16,"['solutions', 'introduction', 'coursera', 'course', 'problems']",0,0,30-May-13
+6,,1,"['solutions', 'course', 'sql', 'relational', 'algebra', 'mapreduce', 'etc']",0,0,30-May-13
+6,[],0,"['introduction', 'stuff', 'datascience']",0,0,31-May-13
+6,,1,"['assignments', 'coursera', 'introduction']",0,0,2-Jun-13
+6,,5,"['project', 'class', 'introduction']",0,0,3-Jun-13
+6,,0,"['tool', 'easily', 'extract', 'web', 'science', 'data', 'importable', 'tab', 'delimited', 'text', 'file', 'easy', 'timeline', '3d']",0,0,4-Jun-13
+6,[],0,"['repo', 'hold', 'work', 'intro', 'class']",0,0,8-Jun-13
+6,,0,"['work', 'files', 'coursera', 'introduction', 'kaggle', 'competition']",0,0,17-Jun-13
+6,,0,"['project', 'general', 'assemb', 'ly', 'class']",0,0,17-Jun-13
+6,,0,"['programming', 'assignment', 'solutions', 'introduction']",0,0,19-Jun-13
+6,,0,"['twitter', 'feed', 'sentiment', 'analysis']",0,0,19-Jun-13
+6,,1,"['aaron', 'jaffe', 'section', '4', 'assignments']",1,0,26-Jun-13
+6,,1,"['salary', 'prediction', 'hw', 'general', 'assembly', 'bootcamp']",1,0,30-Jun-13
+6,,1,"['assignment', 'source', 'code', 'coursera', 'course', 'introduction']",0,Apache-2.0 license,6-Jul-13
+6,,9,"['work', 'redditinsight']",0,0,6-Jul-13
+6,,1,"['repo', 'questions', 'answers', 'introduction', 'course', 'bill', 'howe', 'coursera']",0,0,10-Jul-13
+6,,0,"['assignments', 'introduction', 'course', 'washington', 'university']",0,0,11-Jul-13
+6,,0,"['exercises', 'textcode', 'book', 'introduction', 'jeffrey', 'stanton']",1,0,11-Jul-13
+6,,0,"['programming', 'works', 'introduction', 'coursera']",0,0,12-Jul-13
+6,"['science', 'data', 'bioinformatics', 'r', 'genomics', 'analysis', 'capture', 'rnaseq', 'atac-seq', 'count-data']",1,"['collection', 'assignments', 'general', 'assembly', 'course']",1,0,17-Jul-13
+6,,0,"['programming', 'assignments', 'introduction', 'course']",0,0,20-Jul-13
+6,,0,"['map', 'reduce', 'algorithms', 'made', 'uw', 'iitd', 'web', 'intelligence', 'big', 'data', 'courses']",0,0,20-Jul-13
+6,,0,"['sentimental', 'analysis', 'tweets', 'made', 'uw', 'course']",0,0,20-Jul-13
+6,,0,"['scripts', 'assignments']",0,0,20-Jul-13
+6,,0,"['repository', 'contains', 'code', 'used', 'introduction', 'course']",0,0,21-Jul-13
+6,,0,"['repository', 'contains', 'code', 'used', 'introduction', 'course', 'twitter', 'sentiment']",0,0,21-Jul-13
+6,,0,"['homework', 'assignments', 'projects', 'ga', '2013']",1,0,23-Jul-13
+6,,0,"['ga', 'week', '2', 'home', 'work', 'local', 'git', 'hub']",1,0,28-Jul-13
+6,"['machine-learning', 'data-science', 'tensorflow', 'keras', 'data-visualization']",0,"['solution', 'first', 'assignment', 'introduction', 'coursera']",0,MIT license,4-Aug-13
+6,,0,"['work', 'ga', 'summer', '2013', 'long', 'form', 'course']",1,0,12-Aug-13
+6,,4,"['learning', 'lunch', 'bayesian', 'networks', 'automated', 'causal', 'discovery', 'presented', 'social', 'good', 'fell']",1,0,14-Aug-13
+6,,0,"['labs', 'introduction', 'class']",1,0,14-Aug-13
+6,,0,"['work', 'ga', 'class', '2013']",1,0,15-Aug-13
+6,[],0,"['code', 'kaggle', 'compeition', 'component', 'stat', '4242', 'final', 'project']",1,0,16-Aug-13
+6,,0,"['contains', 'solutions', 'bill', 'howe', 'coursera']",0,0,16-Aug-13
+6,,0,"['repo', 'assignments', 'ga', 'course']",1,0,3-Sep-13
+6,,2,"['tool', 'download', 'mars', 'science', 'laboratory', 'tracking', 'data', 'publicly', 'available']",0,0,4-Sep-13
+6,,0,"['mapreduce', 'exercises', 'introduction', 'course']",0,0,5-Sep-13
+6,[],1,"['benchmark', 'kaggle', 'london', 'competition']",1,0,18-Sep-13
+6,[],0,"['london', 'scikit', 'learn', 'kaggle', 'competition']",0,0,21-Sep-13
+6,,3,"['scripts', 'written', 'using', 'mapreduce', 'paradigm', 'intro', 'course']",0,0,26-Sep-13
+6,,0,"['self', 'learning', 'stuff']",1,0,30-Sep-13
+6,[],0,"['mine', 'data', 'homework', 'science']",0,0,30-Sep-13
+6,,0,"['friendly', 'nyc', 'data', 'storytelling', 'project', 'completed', 'final', 'itp']",0,0,22-Oct-13
+6,,0,"['digit', 'recognizer', 'built', 'kaggle', 'competetion']",0,0,26-Oct-13
+6,,0,"['take', 'sensor', 'data', 'via', 'post', 'expose', 'tastypy', 'api', 'access', 'data', 'science', 'hack', 'day', '2013']",0,MIT license,2-Nov-13
+6,,2,"['lesson', '4', 'oracle', 'academy', 'bootcamp', 'supervised', 'learning', 'classification', 'prediction']",0,0,7-Nov-13
+6,,0,"['holds', 'coursework', 'fall', '2013', 'course']",0,0,9-Nov-13
+6,,0,"['lesson', '5', 'oracle', 'academy', 'bootcamp', 'classical', 'statistics', 'big', 'data', 'world']",0,0,11-Nov-13
+6,,0,"['lesson', '6', 'oracle', 'academy', 'bootcamp', 'building', 'exploring', 'graphs']",0,0,11-Nov-13
+6,"['deck', 'lib', 'lib', 'pandas-dataframe', 'pyplot', 'newyork-data', 'streamlit', 'pydeck', 'road-accident-project']",0,"['homework', 'course', 'general', 'assembly']",0,0,12-Nov-13
+6,,2,"['source', 'files', 'master', 'course', 'big', 'data', 'technologies', 'darmstadt', 'university', 'applied', 'sciences']",0,0,13-Nov-13
+6,,0,"['intro', 'machine', 'learning', 'workshop', 'weekend', 'november', '16', '17', '2013', 'repo', 'contains']",0,0,18-Nov-13
+6,,2,"['make', 'supervised', 'learning', 'less', 'painful']",0,0,19-Nov-13
+6,,0,"['playground', 'learn', 'programming', 'coupled', 'social', 'media', 'api', 'big', 'data']",0,0,25-Nov-13
+6,,0,"['kaggle', 'problem', 'assuming', 'deaths', 'test', 'file', 'training', 'data', 'given']",0,0,4-Dec-13
+6,,1,"['final', 'project', 'course', 'big', 'data', 'information', 'library', 'science', 'unc', 'uses', 'mapreduce', 'find', 'similar', 'studies']",0,0,4-Dec-13
+6,,0,"['result', 'final', 'project', 'computer', 'science', '106', 'introduction', 'data', 'structures', 'produced', 'algo']",0,0,6-Dec-13
+6,,0,"['scripts', 'dealing', 'science', 'museum', 'energy', 'data']",0,MIT license,9-Dec-13
+6,,1,"['longer', 'maintained', 'see']",0,0,11-Dec-13
+6,,0,"['longer', 'maintained', 'see']",0,0,11-Dec-13
+6,,0,"['virtualized', 'container', 'portable', 'reproducible']",0,Apache-2.0 license,28-Dec-13
+6,,0,"['assignments', 'coursera', 'mooc', 'data', 'collected', 'munging', 'interpretations', 'rep']",1,0,17-Jan-14
+6,,0,"['second', 'assignment', 'time', 'using', 'data', 'collected', 'samsung', 'phones', 'determine', 'whether', 'someone', 'li']",1,0,17-Jan-14
+6,,0,"['london', 'scikit', 'learn', 'kaggle', 'competition']",0,0,22-Jan-14
+6,[],7,"['supporting', 'materials', 'weblog', 'series']",1,MIT license,26-Jan-14
+6,,0,"['implemenation', 'solutions', 'allen', 'downey', 'think', 'stats', 'book']",0,0,28-Jan-14
+6,,0,"['repository', 'coursera', 'class', 'toolbox']",1,0,31-Jan-14
+6,,0,"['northern', 'utah', 'group', 'meetup', 'slides', 'notes', 'etc']",1,0,6-Feb-14
+6,,2,"['repository', 'presentations', 'code', 'presnted', 'monthly', 'meeting']",1,0,12-Feb-14
+6,,0,"['machine', 'learning', 'course', 'hackbright', 'exercise', 'algorithm']",0,0,16-Feb-14
+6,,0,"['small', 'scripts', 'created', 'coursera', 'prorgram']",0,0,18-Feb-14
+6,,0,"['social', 'science', 'data', 'creator', 'reddit', 'data']",0,0,20-Feb-14
+6,,1,"['different', 'data', 'analysis', 'topics']",1,GPL-3.0 license,22-Feb-14
+6,,1,"['twitter', 'sentiment', 'analysis', 'exercises', 'coded', 'course', 'introduction', 'coursera']",0,0,25-Feb-14
+6,,0,"['learn', 'kaggle', 'competitions', 'columbia', 'university', 'club']",0,0,27-Feb-14
+6,,1,"['workspace', 'intro', 'udacity']",0,0,3-Mar-14
+6,,0,"['computer', 'science', 'practice', 'algorithms', 'data', 'structures']",0,Apache-2.0 license,4-Mar-14
+6,,0,"['homework', 'assignments', 'general', 'assembly', 'course']",0,0,5-Mar-14
+6,,0,"['self', 'teaching', 'structure', 'udacity', 'questions', 'typically', 'solution', 'posted']",0,0,15-Mar-14
+6,,0,"['solutions', 'edx', 'course', '6', '002x', 'introduction', 'computational', 'thinking']",0,0,31-Mar-14
+6,,0,"['programming', 'assignments', 'introduction', 'course']",0,0,2-Apr-14
+2,,0,"['software', 'engineering', 'reproducible', 'research']",0,0,16-Feb-19
+2,,0,"['tutorial', 'getting', 'set']",0,0,8-Jul-17
+2,,0,"['solutions', 'introduction', 'course', 'coursera']",0,0,23-Dec-16
+2,,0,"['introduction', 'computer', 'science', 'nyu', 'shanghai', 'segment', '3', 'week', '1']",0,0,28-Mar-17
+2,,0,"['jupyter', 'powered', 'lightweight', 'framework', 'projects']",0,0,30-Apr-17
+2,,0,"['submission', 'coursera', 'specialization', 'assignment', 'project']",1,0,22-Jun-16
+2,,0,"['classwork', 'ga', 'students', 'pull']",1,0,15-May-13
+2,,0,"['repository', 'cmu', 'interactive', 'course']",0,0,22-Feb-18
+2,,0,"['1', 'day', 'workshop', 'material', 'sas', 'programmers', 'transition', 'usage']",0,0,21-Jun-17
+2,,0,"['repo', 'contains', 'course', 'project', 'coursera', 'getting', 'cleaning', 'data', 'course', 'part', 'spec']",1,0,27-Apr-14
+2,,0,"['ga', 'week', '2', 'home', 'work', 'local', 'git', 'hub']",1,0,28-Jul-13
+2,,0,"['template', 'repo', 'structure', 'based', 'projects']",0,MIT license,22-May-20
+2,,0,"['lsdc', 'life', 'sciences', 'data', 'collection']",0,BSD-3-Clause license,7-Oct-21
+2,,0,"['asbmb', 'teaching', 'science', 'big', 'data', 'presentation', '2021']",1,0,21-Jun-21
+2,,0,"['best', 'tutorials', 'top', 'data', 'scientists', 'follow']",0,0,21-Oct-16
+2,,0,"['first', 'simple', 'data', 'analysis', 'carried', 'memebers', 'srg']",0,MIT license,11-Apr-19
+2,,0,"['programming', 'published', 'packt']",1,MIT license,18-Jan-21
+2,,0,"['next', 'word', 'prediction', 'app']",1,0,4-Dec-18
+2,,0,"['uthealth', 'introduction']",1,MIT license,9-Dec-19
+2,,0,"['capstone', 'project', 'shiny', 'app', 'predicting', 'next', 'word']",1,0,24-Jan-16
+2,,0,"['repo', 'course', 'project', 'one', 'course', 'exploratory', 'data', 'analysis', 'offered', 'coursera']",1,0,9-Jan-15
+2,,0,"['conformation', 'central', 'limit', 'theorem', 'analysis', 'tooth', 'growth', 'data']",1,0,12-May-16
+2,,0,"['programming', 'assignments', 'introduction', 'course']",0,0,20-Jul-13
+2,[],0,"['course', 'tsci', '5050', 'introduction']",1,CC0-1.0 license,16-May-16
+2,,0,"['storing', 'place', 'scripts', 'written', 'course', 'sql', 'databases', 'offered', 'ibm']",0,0,23-Jun-18
+2,[],0,"['projects', 'associated', 'specialization', 'johns', 'hopkins', 'via', 'coursera', 'org']",1,0,18-Nov-14
+2,,0,"['glassdoor', 'data', 'data', 'scientist', 'jobs', 'hong', 'kong']",0,0,1-Jun-21
+2,,0,"['bunch', 'scripts', 'making', 'order', 'apply', 'kinds', 'models', 'already', 'pre', 'processed', 'dataset']",0,0,16-Jan-20
+2,[],0,"['repo', 'students', 'ga', 'course', 'hong', 'kong']",0,0,6-May-14
+2,,0,"['student', 'work', 'general', 'assembly', 'course', 'washington', 'dc']",0,0,25-Feb-15
+2,[],0,"['milestone', 'report', 'coursera', 'capstone']",1,0,20-Feb-17
+2,,0,"['simple', 'project', 'exploring', 'weather', 'australia', 'used', 'git', 'training', 'course']",1,0,16-Mar-21
+2,,0,"['codes', 'applied', 'class', 'fall', 'semester', '2014', 'includes', 'statistics', 'regression', 'analys']",0,0,22-Jan-15
+2,,0,"['session', 'research', 'data', 'management', 'life', 'sciences', 'workshop', '10', 'nov', '2020', 'creating', 'working', 'reproducible']",1,0,9-Nov-20
+2,,0,"['containers', 'used', 'general', 'purpose']",0,0,25-Aug-21
+2,,0,"['consists', 'examples', 'assignments', 'discussed', 'course', 'gv']",0,0,15-Nov-18
+2,,0,"['capital', 'one', '2', 'dataset', 'dataset', 'challenge', 'success']",1,0,8-May-16
+2,,0,"['coursera', 'introductino', 'twitter', 'sentiment', 'script', 'dictionary']",0,0,29-Dec-14
+2,,0,"['repository', 'team', 'les', 'charettes', 'ensai', 'game', '2017']",0,0,24-Jun-17
+2,,0,"['machine', 'learning', 'related', 'tutorials']",0,0,17-May-20
+2,,0,"['project', 'repository', 'project', 'machine', 'learning']",0,0,13-Feb-20
+2,[],0,"['student', 'work', 'general', 'assembly', 'course', 'washington', 'dc']",0,0,27-Dec-14
+2,[],0,"['first', 'project', 'data', 'structures', 'algorithms', 'nanodegree']",0,0,24-Oct-19
+2,,0,"['data', 'preprocessing', 'lab', 'data', 'cleaning']",0,0,22-Oct-21
+2,,0,"['starter', 'project', 'using', 'common', 'dependencies', 'included', 'pull', 'requests', 'welcome']",0,MIT license,4-Feb-19
+2,,0,"['projects', 'done', 'program', 'nyc', 'academy']",1,0,27-Apr-16
+2,,0,"['web', 'based', 'dashboard', 'vehicle', 'collision', 'dataset', 'newyork', 'city']",0,0,21-Oct-20
+2,,0,"['repository', 'students', 'test', 'new', 'found', 'git', 'skills']",1,0,11-Oct-21
+2,"['data-science', 'python', 'data', 'dictionary', 'datascience', 'data-analysis', 'datawrangling', 'pythonprojects', 'datascienceproject', 'greyatom']",0,"['forked', 'donnemartin']",0,0,3-Jul-17
+2,,0,"['getting', 'started', 'repository', 'psychology']",1,0,16-Jan-20
+2,,0,"['source', 'code', 'accompany', 'wall', 'street', 'tutorial', 'hadoop', 'world', 'nyc', '2015']",0,Apache-2.0 license,29-Sep-15
+2,[],0,"['source', 'code', 'accompany', 'wall', 'street', 'tutorial', 'hadoop', 'world', 'nyc', '2015']",0,Apache-2.0 license,29-Sep-15
+2,,0,"['introduction', 'week', '4', 'assignment', 'solution']",0,0,4-Dec-20
+2,,0,"['hmc', 'summer', 'workshop', 'bootcamp']",1,0,31-May-18
+2,,0,"['course', 'project', 'coursera', 'getting', 'cleaning', 'data', 'class']",1,0,25-Jan-15
+2,,0,"['lesson', '5', 'oracle', 'academy', 'bootcamp', 'classical', 'statistics', 'big', 'data', 'world']",0,0,11-Nov-13
+2,,0,"['data', 'summit', '2015', 'workshop']",0,0,16-May-17
+2,,0,"['validate', 'output', 'data', 'repository', 'lsst', 'science', 'requirements', 'document', 'key', 'performance', 'metrics']",0,GPL-3.0 license,26-Aug-21
+2,,0,"['computer', 'science', 'engineering', 'data', 'scientists']",0,MIT license,31-Jan-19
+2,,0,"['place', 'useful', 'functions', 'methods']",0,0,1-Aug-20
+2,,0,"['repo', 'contains', 'supporting', 'documentation', 'files', 'simple', 'shiny', 'app', 'developed', 'cousera', 'johns', 'hopk']",1,0,20-Mar-16
+0,,21800,"['notebooks', 'deep', 'learning', 'tensorflow', 'theano', 'caffe', 'keras', 'scikit', 'learn', 'kaggle', 'big', 'data', 'spar']",0,0,4-Nov-21
+0,,4400,"['common', 'data', 'analysis', 'machine', 'learning', 'tasks', 'using']",0,MIT license,25-Aug-21
+0,,5700,"['curated', 'list', 'blogs']",0,0,3-Aug-21
+0,"['data-science', 'parsing', 'webscraping']",5200,"['logical', 'reasonably', 'standardized', 'flexible', 'project', 'structure', 'sharing', 'work']",0,MIT license,8-Nov-21
+0,,1700,"['curated', 'list', 'tutorials', 'nlp', 'machine', 'learning']",1,MIT license,19-Oct-20
+0,[],4500,"['toturials', 'coming', 'roadmap', 'picture']",0,GPL-3.0 license,11-Dec-20
+0,,378,"['slides', 'accompanying', 'code', 'exercises', 'stored', 'repo']",0,MIT license,9-May-21
+0,,879,"['data', 'intensive', 'science', 'everyone']",0,0,12-Nov-21
+0,"['data-science', 'lib', 'jupyter-notebook', 'lib', 'python3']",330,"['github', 'repository', 'accompany', 'youtube', 'series', 'videos', 'introductory', 'using']",1,0,11-Nov-17
+0,,1600,"['readings', 'applied']",1,CC-BY-SA-4.0 license,21-Jun-18
+0,[],115,"['code', 'documentation', 'introduction', 'jeffrey', 'stanton']",1,0,11-Jun-12
+0,,118,"['repository', 'focuses', 'saving', 'linkedin', 'articles', 'stuff', 'find', 'useful', 'linkedin']",0,0,3-Aug-21
+0,,268,"['collecting', 'analyzing', 'visualizing', 'paper', 'trading', 'options', 'market', 'data']",0,BSD-3-Clause license,27-Aug-21
+0,,150,"['5th', 'place', '816', 'teams', 'solution', '2018', 'bowl', 'organized', 'booz', 'allen', 'hamilton']",0,0,29-Mar-19
+0,[],186,"['mypy', 'stubs', 'e', 'type', 'information', 'numpy', 'pandas', 'matplotlib']",0,Apache-2.0 license,16-Feb-21
+0,,159,"['rucio', 'scientific', 'data', 'management']",0,Apache-2.0 license,12-Nov-21
+0,,102,"['starter', 'reference', 'code', 'interested', 'starting']",0,0,15-Mar-20
+0,,20,"['swiftkey', 'capstone', 'project', 'coursera', 'specialization']",1,0,8-Dec-14
+0,,1300,"['colour', 'science']",0,BSD-3-Clause license,12-Nov-21
+0,,24,"['datascience', 'courses', 'coursera', 'john', 'hopkins', 'university']",1,0,9-Aug-20
+0,,4700,"['framework', 'creating', 'reproducible', 'maintainable', 'modular', 'code']",0,Apache-2.0 license,12-Nov-21
+0,,94,"['consists', 'examples', 'assignments', 'discussed', 'course', 'taken', 'algorithmica']",0,0,12-Mar-20
+0,[],295,"['code', 'accompany', 'mastering', 'pt', 'press']",0,Apache-2.0 license,31-May-19
+0,,55,['workshop'],0,0,24-Nov-14
+0,,115,"['relational', 'data', 'pipelines', 'science', 'lab']",0,LGPL-2.1 license,1-Nov-21
+0,,198,"['step', 'functions', 'sdk', 'building', 'machine', 'learning', 'ml', 'workflows', 'pipelines', 'aws']",0,Apache-2.0 license,8-Nov-21
+0,,177,"['thematic', 'list', 'high', 'quality', 'resources']",1,0,24-Oct-21
+0,,4900,"['build', 'manage', 'real', 'life', 'projects', 'ease']",0,Apache-2.0 license,12-Nov-21
+0,[],144,"['list', 'colleges', 'universities', 'offering', 'degrees']",0,MIT license,24-Jan-21
+0,,529,"['set', 'useful', 'tools', 'competitive']",0,MIT license,22-Oct-21
+0,,69,"['source', 'code', 'practical', 'web', 'scraping', 'seppe', 'vanden', 'broucke', 'bart', 'baesens']",0,0,14-May-18
+0,,54,"['code', 'repository', 'blog', 'art', 'science', 'data']",1,0,3-Feb-21
+0,,934,"['library', 'building', 'highly', 'effective', 'workflows']",0,MIT license,6-Oct-21
+0,,490,"['sjplot', 'data', 'visualization', 'statistics', 'social', 'science']",1,0,3-Nov-21
+0,,40,"['projects', 'using', 'galaxy', 'linux', 'command', 'line', 'analyze', 'sequencing', 'data']",0,0,8-Oct-20
+0,,42,"['labs', 'package', 'includes', 'functions', 'data', 'courses']",1,0,28-Apr-21
+0,,496,"['compiled', 'automatically', 'parallel']",0,Apache-2.0 license,25-Mar-17
+0,,170,"['tool', 'encapsulating', 'running', 'reproducing', 'projects']",0,0,27-Sep-21
+0,[],40,"['umichigan', 'coursera', 'intro', 'ds', 'course']",0,0,3-Oct-20
+0,,39,"['generating', 'next', 'read', 'book', 'club']",0,Apache-2.0 license,6-Feb-16
+0,[],326,"['personal', 'machine', 'learning', 'toolbox']",0,MIT license,4-Feb-20
+0,"['music', 'ratings', 'data', 'dataset']",115,"['fit', 'models', 'data', 'sherpa']",0,0,8-Nov-21
+0,,16,"['reproducible', 'rstudio', 'git', 'github']",1,CC-BY-4.0 license,30-Sep-20
+0,,177,"['keras', 'tutorial', 'kaggle', '2nd', 'annual', 'bowl']",0,0,17-Feb-16
+0,,56,"['multilingual', 'glossary', 'computing', 'terms']",0,0,10-Nov-21
+0,,38,"['webapp', 'show', 'capabilities', 'flask', 'libraries', 'sklearn', 'pandas', 'matplotlib', 'seab']",0,MIT license,1-Oct-20
+0,,270,"['full', 'pipeline', 'competition', 'public', 'version']",0,Apache-2.0 license,5-Sep-21
+0,,57,"['end', 'end', 'one', 'class', 'instance', 'segmentation', 'based', 'u', 'net', 'architecture', 'bowl', '2018', 'kaggle']",0,0,17-Apr-18
+0,,460,"['powerful', 'format', 'agnostic', 'community', 'driven', 'package', 'analysing', 'visualising', 'earth', 'science', 'data']",0,LGPL-3.0 license,12-Nov-21
+0,,11,"['homework', 'programming', 'international', 'classes']",0,0,9-Jul-20
+0,,577,"['peer', 'peer', 'platform', 'secure', 'privacy', 'preserving', 'decentralized']",0,Apache-2.0 license,21-Oct-21
+0,,566,"['winning', 'solution', 'national', 'bowl', 'competition', 'kaggle', 'plankton', 'classification']",0,MIT license,25-Mar-15
+0,,0,"['software', 'engineering', 'reproducible', 'research']",0,0,16-Feb-19
+0,,0,"['software', 'engineering', 'reproducible', 'research']",0,0,16-Feb-19
+0,,56,"['building', 'applications', 'fastapi', 'published', 'packt']",0,MIT license,26-Aug-21
+0,,15,"['keep', 'learning', 'something', 'new']",0,0,29-Mar-21
+0,[],33,"['helpful', 'resources', 'big']",1,CC-BY-SA-4.0 license,15-Aug-21
+0,[],59,"['various', 'forays', 'beer']",1,0,4-Jun-18
+0,,32,"['visualisations', 'machine', 'learning', 'cookbook']",0,GPL-3.0 license,16-Jun-19
+0,,216,"['journal', 'statistical', 'education', 'paper', 'using', 'okcupid', 'data', 'courses']",1,0,26-Apr-21
+0,,204,"['advanced', 'high', 'performance', 'toolbox', 'laurae']",1,0,24-Mar-17
+0,,62,"['primitives', 'machine', 'learning']",0,MIT license,9-Nov-21
+0,,381,"['work', 'analytics', 'research']",1,0,4-Sep-19
+0,,116,"['solution', 'win', 'second', 'annual', 'bowl']",0,MIT license,3-Apr-16
+0,,135,"['public', 'repo', 'dojo', 'youtube', 'tutorial', 'series', 'introduction', 'text', 'analytics']",1,0,6-Mar-20
+0,,344,"['code', '2nd', 'place', 'solution', '2017', 'national', 'bowl']",0,0,30-Sep-18
+0,,51,"['content', 'shared', 'ds', 'ox', 'meetup']",0,0,1-Sep-21
+0,,73,"['papers', 'read', 'discuss']",0,0,24-Feb-21
+0,,89,"['template', 'repository', 'lifecycle', 'project']",0,0,2-Jul-20
+0,,75,"['data', 'analysis', 'tools', 'x', 'ray', 'neutron', 'electron', 'sciences']",0,0,30-Oct-21
+0,,10,"['site', 'resource', 'topology', 'data', 'open', 'science', 'grid']",0,Apache-2.0 license,13-Nov-21
+0,,24,"['algorithms', 'week', 'published', 'packt']",0,MIT license,14-Jan-21
+0,,16,"['solutions', 'introduction', 'coursera', 'course', 'problems']",0,0,30-May-13
+0,[],30,"['tool', 'set', 'analyzing', 'political', 'science', 'data']",1,0,17-Oct-19
+0,,24,"['source', 'code', 'fundamentals', 'mongodb', 'david', 'paper']",0,0,15-May-18
+0,,192,"['tools', 'loading', 'standard', 'data', 'sets', 'machine', 'learning']",0,0,3-Oct-18
+0,,22,"['simulation', 'packt', 'publishing']",1,MIT license,14-Dec-20
+0,,22,"['simulation', 'packt', 'publishing']",1,MIT license,14-Dec-20
+0,,7,"['supporting', 'materials', 'weblog', 'series']",1,MIT license,26-Jan-14
+0,,1,"['collection', 'work', 'coursera', 'john', 'hopkins', 'specialization']",1,0,31-May-16
+0,,101,"['pyscaffold', 'extension', 'projects']",0,MIT license,9-Nov-21
+0,,371,"['tdsp', 'project', 'template', 'repository', 'standardized', 'directory', 'structure', 'document', 'templates', 'suppor']",1,0,10-Aug-20
+0,,4,"['set', 'projects', 'designed', 'around', 'field', 'checkout']",0,GPL-2.0 license,24-Feb-20
+0,,13,"['walk', 'basics', 'using', 'pyspark', 'mlflow', 'titanic', 'dataset']",0,0,14-Sep-20
+0,,99,"['gender', 'classification', 'challenge', 'learn', '1', 'sirajology', 'youtube']",0,0,8-Nov-17
+5,,0,"['dse511', 'introduction', 'computing']",0,0,13-Nov-21
+5,,0,"['repository', 'containing', 'files', 'survival', 'skills', 'dsss']",0,0,13-Nov-21
+5,,0,"['machine', 'learning', 'articles']",0,MIT license,13-Nov-21
+5,,0,"['app', 'assignment', 'udacity', 'nanodegree', 'program']",0,0,13-Nov-21
+5,,0,"['app', 'assignment', 'udacity', 'nanodegree', 'program']",0,0,13-Nov-21
+5,[],1,"['collection', 'useful', 'functions', 'datasets', 'course', 'ibaw', 'lucerne']",1,0,13-Nov-21
+5,,0,"['master', 'build', 'websites', 'games', 'apps', 'plus', 'scraping']",0,0,13-Nov-21
+5,,0,"['repository', 'learn', 'required', 'machine', 'larning', 'code', 'help']",1,0,13-Nov-21
+5,,0,"['repository', 'contains', 'work', 'field']",1,0,13-Nov-21
+5,,12,"['bcg', 'open', 'access', 'advanced', 'analytics', 'virtual', 'experience', 'program']",0,0,13-Nov-21
+5,,0,"['currently', 'exploring', 'yelp', 'data', 'nyc', 'restaurant', 'rodent', 'data']",0,0,13-Nov-21
+5,"['web-scrapper', 'github-repository-scrapper']",0,"['backend', 'trabalho', 'final', 'da', 'disciplina', 'business']",0,0,13-Nov-21
+5,,1,"['collection', 'machine', 'learning', 'technical', 'concepts']",0,0,13-Nov-21
+5,,0,"['projects', 'complete', 'pro', 'bootcamp', 'developer', 'angela', 'yu', 'covering', 'web', 'development', 'web', 'scr']",0,0,13-Nov-21
+5,,1,"['data', 'manipulation', 'machine', 'learning', 'package']",0,0,13-Nov-21
+5,,0,"['project', 'assignment', 'data', 'entrepreneurship', 'action', 'course', 'master', 'entrepreneurship']",1,MIT license,13-Nov-21
+5,,0,"['repository', 'computer', 'science', 'big', 'data']",0,0,13-Nov-21
+5,,0,"['bioinformatic', 'analysis', 'rna', 'seq', 'data', 'find', 'differentially', 'expressed', 'genes', 'degs', 'ffetal', '<', '0', 'years', 'ad']",1,0,13-Nov-21
+5,,0,"['package', 'usefull', 'tools', 'data', 'scientists']",0,0,13-Nov-21
+5,,0,"['simulation', 'project', 'elective', 'subject', 'statistical', 'learning', 'master', 'science', 'degree', 'progra']",1,0,13-Nov-21
+5,,0,"['cheatsheet', 'code', 'statistician', 'daily', 'work', 'new', 'information', 'updated', 'continually']",1,0,13-Nov-21
+5,,0,"['task', 'spark', 'foundation', 'internship', 'business', 'analysis']",0,0,13-Nov-21
+5,,0,"['anonimize', 'data', 'tasks']",0,BSD-3-Clause license,13-Nov-21
+5,,0,"['sparks', 'foundation', 'grip', 'business', 'analytics', 'november', '2021', 'tasks', '1', 'prediction', 'using', 'supervis']",1,0,13-Nov-21
+5,,0,"['jupyter', 'notebook', 'setup', 'udemy', 'course']",0,GPL-3.0 license,13-Nov-21
+5,,2,"['genenetwork3', 'rest', 'api', 'machine', 'learning']",0,AGPL-3.0 license,13-Nov-21
+5,,0,"['thai', 'covid', 'test', 'data', 'department', 'medical', 'sciences', 'ministry', 'public', 'health']",0,0,13-Nov-21
+5,,10,"['site', 'resource', 'topology', 'data', 'open', 'science', 'grid']",0,Apache-2.0 license,13-Nov-21
+5,,4700,"['framework', 'creating', 'reproducible', 'maintainable', 'modular', 'code']",0,Apache-2.0 license,12-Nov-21
+5,,0,"['flask', 'app', 'created', 'deploying', 'projects', 'portfolio']",0,MIT license,12-Nov-21
+5,,4900,"['build', 'manage', 'real', 'life', 'projects', 'ease']",0,Apache-2.0 license,12-Nov-21
+5,,1,"['data', 'manipulation', 'machine', 'learning', 'package']",0,0,12-Nov-21
+5,,0,"['repository', 'group', 'project', 'done', 'course', 'fundamentals', 'university']",1,MIT license,12-Nov-21
+5,,0,"['early', 'foray', 'cybersecurity', 'deformatting', 'csv', 'logs', 'panda', 'formatted', 'json']",0,EPL-2.0 license,12-Nov-21
+5,,26,"['library', 'renku', 'collaborative', 'platform']",0,Apache-2.0 license,12-Nov-21
+5,"['web-scrapper', 'github-repository-scrapper']",26,"['rapid', 'flexible', 'acquisition', 'analysis', 'fitting', 'plotting', 'designed', 'scientific', 'laboratories']",0,GPL-3.0 license,12-Nov-21
+5,,0,"['project', 'study', 'understand', 'different', 'variables', 'describe', 'music', 'taste', 'order']",1,0,12-Nov-21
+5,[],879,"['data', 'intensive', 'science', 'everyone']",0,0,12-Nov-21
+5,,0,"['university', 'project', 'entails', 'relevant', 'steps', 'analytics', 'worklow', 'e', 'data', 'acquisition', 'intense', 'cleanin']",1,0,12-Nov-21
+5,,50,"['reading', 'list', 'fortnightly', 'discussion', 'group', 'designed', 'provoke', 'discussion', 'ethical', 'applications', 'pro']",0,0,12-Nov-21
+5,[],2,"['validator', 'scorer', 'evaluations', 'dse', 'd3m']",0,0,12-Nov-21
+5,[],0,"['package', 'class', 'modelling', 'data', 'analysis', 'pharmaceutical', 'science', 'introduction', 'data', 'analytics', 'id']",1,0,12-Nov-21
+5,[],0,"['package', 'class', 'modelling', 'data', 'analysis', 'pharmaceutical', 'science', 'introduction', 'data', 'analytics', 'id']",1,0,12-Nov-21
+5,,0,"['basic', 'advance', 'projects']",0,0,12-Nov-21
+5,[],159,"['rucio', 'scientific', 'data', 'management']",0,Apache-2.0 license,12-Nov-21
+5,,9,"['second', 'coursework', 'case', 'sber', 'competition', 'links', 'scientific', 'papers', 'refer']",0,MIT license,12-Nov-21
+5,['elife-sprint-2020'],188,"['kuwala', 'tool', 'integrating', 'third', 'party', 'data', 'models', 'products', 'focus', 'geospatial', 'data']",0,Apache-2.0 license,12-Nov-21
+5,,188,"['kuwala', 'tool', 'integrating', 'third', 'party', 'data', 'models', 'products', 'focus', 'geospatial', 'data']",0,Apache-2.0 license,12-Nov-21
+5,,0,"['repo', 'ibm', 'course', 'applied', 'capstome']",0,0,12-Nov-21
+5,,1,"['project', 'part', 'assignment', 'course', 'called', 'ds105m', 'data', 'project', 'group']",0,0,12-Nov-21
+5,,4,"['planning', 'algorithms', 'ai', 'robotics', 'msc', 'course', 'skoltech', 'program']",0,0,12-Nov-21
+5,,315,"['analysis', 'visualization', 'platform', 'omics', 'data']",0,GPL-3.0 license,12-Nov-21
+5,,0,"['repository', 'containing', 'files', 'dsss', 'survival', 'skills']",0,0,12-Nov-21
+5,,0,"['test', 'repository', 'course', 'fau', 'erlangen']",0,0,12-Nov-21
+5,,52,"['core', 'data', 'exchange', 'library', 'subsurface', 'science', 'engineering']",0,Apache-2.0 license,12-Nov-21
+5,,0,"['github', 'repository', 'course', 'survival', 'skills', 'dsss', 'taught', 'fau']",0,0,12-Nov-21
+5,,0,"['software', 'social', 'sciences', 'data', 'study']",1,0,12-Nov-21
+5,,460,"['powerful', 'format', 'agnostic', 'community', 'driven', 'package', 'analysing', 'visualising', 'earth', 'science', 'data']",0,LGPL-3.0 license,12-Nov-21
+5,"['data-science', 'machine-learning', 'tutorial', 'r', 'database', 'machine-learning-algorithms', 'data-visualization', 'rmarkdown', 'r-markdown', 'data-analysis', 'r-ggplot2', 'r-programming', 'r-machine-learning-turorials', 'r-studio', 'r-data-visualization']",0,"['interdisciplinary', 'project', 'tu', 'wien']",0,0,12-Nov-21
+5,[],0,"['ibm', 'professional', 'certificate', 'final', 'assignment']",0,0,12-Nov-21
+5,"['airflow', 'scikit-learn', 'ml', 'datascience', 'airflow-plugin', 'pandas-python', 'datadriver']",0,"['basic', 'utilities', 'functions', 'data', 'analysys']",0,MIT license,12-Nov-21
+5,,0,"['project', 'assignment', 'social', 'network', 'analysis', 'data', 'scientists', 'course', 'master', 'ent']",1,MIT license,12-Nov-21
+5,,0,"['personnal', 'utilities']",0,0,12-Nov-21
+5,,12,"['psychologists', 'ds4psy', 'package', 'supporting', 'book', 'course']",1,0,12-Nov-21
+5,,1,"['final', 'project', 'cultural', 'creating', 'explainable', 'embeddings', 'nlp']",0,MIT license,12-Nov-21
+5,[],1300,"['colour', 'science']",0,BSD-3-Clause license,12-Nov-21
+5,[],23,"['repository', 'contains', 'learning', 'resources', 'fast', 'api', 'framework', 'docker', 'build', 'high', 'performing', 'apps']",0,0,12-Nov-21
+5,[],2,"['class', 'report', 'generator', 'mini', 'project']",0,0,12-Nov-21
+5,[],0,"['repository', 'containing', 'projects', 'created', 'udacity', 'nanodegree']",0,0,12-Nov-21
+5,[],0,"['final', 'project', 'class', 'currently', 'wip']",0,0,12-Nov-21
+5,[],41,"['cf', 'compliant', 'earth', 'science', 'data', 'analysis', 'library']",0,MIT license,12-Nov-21
+5,[],0,"['telescopes', 'workflows', 'data', 'services', 'academic', 'observatory']",0,Apache-2.0 license,12-Nov-21
+5,[],0,"['study', 'project']",0,0,12-Nov-21
+5,[],0,"['repository', 'serves', 'back', 'local', 'directory', 'files', 'stat', '724', 'intro']",0,0,12-Nov-21
+5,[],42,"['tool', 'creating', 'deploying', 'pipelines', 'versioned', 'data']",0,Apache-2.0 license,12-Nov-21
+5,,0,"['applications', 'purpose', 'share', 'knowledge', 'applications']",0,0,12-Nov-21
+5,[],0,"['final', 'project', 'boston', 'university', 'met', 'cs', '677', 'using', 'comparing', 'various', 'supervised', 'mac']",0,0,12-Nov-21
+5,[],0,"['excercises', 'ibm', 'professional', 'certification']",0,0,11-Nov-21
+3,[],21800,"['notebooks', 'deep', 'learning', 'tensorflow', 'theano', 'caffe', 'keras', 'scikit', 'learn', 'kaggle', 'big', 'data', 'spar']",0,0,4-Nov-21
+3,,5700,"['curated', 'list', 'blogs']",0,0,3-Aug-21
+3,,5200,"['logical', 'reasonably', 'standardized', 'flexible', 'project', 'structure', 'sharing', 'work']",0,MIT license,8-Nov-21
+3,[],4400,"['common', 'data', 'analysis', 'machine', 'learning', 'tasks', 'using']",0,MIT license,25-Aug-21
+3,[],4500,"['toturials', 'coming', 'roadmap', 'picture']",0,GPL-3.0 license,11-Dec-20
+3,[],1700,"['curated', 'list', 'tutorials', 'nlp', 'machine', 'learning']",1,MIT license,19-Oct-20
+3,[],879,"['data', 'intensive', 'science', 'everyone']",0,0,12-Nov-21
+3,[],0,"['software', 'engineering', 'reproducible', 'research']",0,0,16-Feb-19
+3,[],2400,"['deepvariant', 'analysis', 'pipeline', 'uses', 'deep', 'neural', 'network', 'call', 'genetic', 'variants', 'next', 'generation', 'dna']",0,BSD-3-Clause license,27-Oct-21
+3,[],4700,"['framework', 'creating', 'reproducible', 'maintainable', 'modular', 'code']",0,Apache-2.0 license,12-Nov-21
+3,[],4900,"['build', 'manage', 'real', 'life', 'projects', 'ease']",0,Apache-2.0 license,12-Nov-21
+3,[],330,"['github', 'repository', 'accompany', 'youtube', 'series', 'videos', 'introductory', 'using']",1,0,11-Nov-17
+3,[],378,"['slides', 'accompanying', 'code', 'exercises', 'stored', 'repo']",0,MIT license,9-May-21
+3,[],371,"['tdsp', 'project', 'template', 'repository', 'standardized', 'directory', 'structure', 'document', 'templates', 'suppor']",1,0,10-Aug-20
+3,,232,"['course', 'materials', 'introduction', 'video', 'course', 'rstudio', 'reilly', 'media']",1,0,26-Oct-21
+3,[],681,"['stand', 'alone', 'light', 'weight', 'web', 'server', 'building', 'sharing', 'graphs', 'created', 'ipython', 'build', 'data']",0,GPL-2.0 license,29-Mar-21
+3,[],682,"['pybossa', 'ultimate', 'crowdsourcing', 'framework', 'aka', 'microtasking', 'analyze', 'enrich', 'data', 'processed']",0,0,21-Oct-21
+3,[],295,"['code', 'accompany', 'mastering', 'pt', 'press']",0,Apache-2.0 license,31-May-19
+3,[],460,"['powerful', 'format', 'agnostic', 'community', 'driven', 'package', 'analysing', 'visualising', 'earth', 'science', 'data']",0,LGPL-3.0 license,12-Nov-21
+3,[],135,"['public', 'repo', 'dojo', 'youtube', 'tutorial', 'series', 'introduction', 'text', 'analytics']",1,0,6-Mar-20
+3,[],1600,"['readings', 'applied']",1,CC-BY-SA-4.0 license,21-Jun-18
+3,,577,"['peer', 'peer', 'platform', 'secure', 'privacy', 'preserving', 'decentralized']",0,Apache-2.0 license,21-Oct-21
+3,[],566,"['winning', 'solution', 'national', 'bowl', 'competition', 'kaggle', 'plankton', 'classification']",0,MIT license,25-Mar-15
+3,[],159,"['rucio', 'scientific', 'data', 'management']",0,Apache-2.0 license,12-Nov-21
+3,,144,"['list', 'colleges', 'universities', 'offering', 'degrees']",0,MIT license,24-Jan-21
+3,[],1300,"['colour', 'science']",0,BSD-3-Clause license,12-Nov-21
+3,[],94,"['consists', 'examples', 'assignments', 'discussed', 'course', 'taken', 'algorithmica']",0,0,12-Mar-20
+3,[],1,"['collection', 'work', 'coursera', 'john', 'hopkins', 'specialization']",1,0,31-May-16
+3,[],344,"['code', '2nd', 'place', 'solution', '2017', 'national', 'bowl']",0,0,30-Sep-18
+3,[],37,"['resporatory', 'ml', 'ai', 'nlp', 'etc', 'language', 'related', 'material', 'many', 'websites', 'eg', 'datacamp', 'gee']",0,MIT license,30-Oct-21
+3,,99,"['gender', 'classification', 'challenge', 'learn', '1', 'sirajology', 'youtube']",0,0,8-Nov-17
+3,[],10,"['site', 'resource', 'topology', 'data', 'open', 'science', 'grid']",0,Apache-2.0 license,13-Nov-21
+3,,115,"['code', 'documentation', 'introduction', 'jeffrey', 'stanton']",1,0,11-Jun-12
+3,[],20,"['swiftkey', 'capstone', 'project', 'coursera', 'specialization']",1,0,8-Dec-14
+3,,105,"['twitter', 'sentiment', 'analysis', 'challenge', 'learn', '2', 'sirajology', 'youtube']",0,0,24-Feb-19
+3,[],56,"['multilingual', 'glossary', 'computing', 'terms']",0,0,10-Nov-21
+3,,427,"['complete', 'docker', 'package', 'django', 'easy', 'understand', 'deployed', 'anywhere', 'supports']",0,MIT license,5-May-21
+3,[],529,"['set', 'useful', 'tools', 'competitive']",0,MIT license,22-Oct-21
+3,[],38,"['public', 'github', 'repository', 'dojo', 'webinar', 'titled', 'introduction', 'data', 'visualization']",1,0,28-Jun-17
+3,[],11,"['homework', 'programming', 'international', 'classes']",0,0,9-Jul-20
+3,[],315,"['analysis', 'visualization', 'platform', 'omics', 'data']",0,GPL-3.0 license,12-Nov-21
+3,[],73,"['shell', 'script', 'scrape', 'harvard', 'cs109', 'intro', 'lecture', 'videos']",0,0,29-Jun-16
+3,[],118,"['repository', 'focuses', 'saving', 'linkedin', 'articles', 'stuff', 'find', 'useful', 'linkedin']",0,0,3-Aug-21
+3,[],9,"['scripts', 'benchmarking', 'next', 'word', 'prediction', 'algorithms', 'developed', 'coursera', 'capstone', 'project']",1,0,6-Jan-16
+3,[],0,"['tutorial', 'getting', 'set']",0,0,8-Jul-17
+3,[],490,"['sjplot', 'data', 'visualization', 'statistics', 'social', 'science']",1,0,3-Nov-21
+3,[],177,"['keras', 'tutorial', 'kaggle', '2nd', 'annual', 'bowl']",0,0,17-Feb-16
+3,[],149,"['algorithms', 'qlik', 'implemented', 'server', 'side', 'extension', 'sse']",0,MIT license,10-Feb-21
+3,[],82,"['deep', 'dream', 'challenge', 'code', 'sirajology', 'youtube', 'learn', '5']",0,0,6-Nov-16
+3,[],137,"['sdk', 'vertex', 'ai', 'fully', 'managed', 'end', 'end', 'platform', 'machine', 'learning']",0,Apache-2.0 license,11-Nov-21
+3,,326,"['personal', 'machine', 'learning', 'toolbox']",0,MIT license,4-Feb-20
+3,[],934,"['library', 'building', 'highly', 'effective', 'workflows']",0,MIT license,6-Oct-21
+3,[],216,"['journal', 'statistical', 'education', 'paper', 'using', 'okcupid', 'data', 'courses']",1,0,26-Apr-21
+3,,150,"['5th', 'place', '816', 'teams', 'solution', '2018', 'bowl', 'organized', 'booz', 'allen', 'hamilton']",0,0,29-Mar-19
+3,[],102,"['starter', 'reference', 'code', 'interested', 'starting']",0,0,15-Mar-20
+3,[],198,"['step', 'functions', 'sdk', 'building', 'machine', 'learning', 'ml', 'workflows', 'pipelines', 'aws']",0,Apache-2.0 license,8-Nov-21
+3,[],75,"['data', 'analysis', 'tools', 'x', 'ray', 'neutron', 'electron', 'sciences']",0,0,30-Oct-21
+3,,95,"['repository', 'code', 'used', 'kaggle', 'machine', 'learning', 'tasks']",0,MIT license,20-Oct-21
+3,[],69,"['source', 'code', 'practical', 'web', 'scraping', 'seppe', 'vanden', 'broucke', 'bart', 'baesens']",0,0,14-May-18
+3,[],270,"['full', 'pipeline', 'competition', 'public', 'version']",0,Apache-2.0 license,5-Sep-21
+3,,58,"['coding', 'exercises', 'problem', 'sets', 'lecture', 'code', 'mitx', '6', '00', '2x', 'introduction', 'computational', 'thinking', 'data', 'sc']",0,0,10-Apr-21
+3,[],24,"['datascience', 'courses', 'coursera', 'john', 'hopkins', 'university']",1,0,9-Aug-20
+3,[],39,"['generating', 'next', 'read', 'book', 'club']",0,Apache-2.0 license,6-Feb-16
+3,[],115,"['relational', 'data', 'pipelines', 'science', 'lab']",0,LGPL-2.1 license,1-Nov-21
+3,[],170,"['tool', 'encapsulating', 'running', 'reproducing', 'projects']",0,0,27-Sep-21
+3,[],186,"['mypy', 'stubs', 'e', 'type', 'information', 'numpy', 'pandas', 'matplotlib']",0,Apache-2.0 license,16-Feb-21
+3,[],116,"['solution', 'win', 'second', 'annual', 'bowl']",0,MIT license,3-Apr-16
+3,[],231,"['flexible', 'hdf5', 'saving', 'loading', 'tools', 'university', 'chicago']",0,BSD-3-Clause license,23-Sep-21
+3,[],55,['workshop'],0,0,24-Nov-14
+3,[],40,"['umichigan', 'coursera', 'intro', 'ds', 'course']",0,0,3-Oct-20
+3,[],90,"['traffic', 'counter', 'designed', 'using', 'opencv', 'library', '3', '5', 'project', 'carried', 'part', 'gover']",0,0,21-Dec-18
+3,[],93,"['share', 'building', 'free', 'open', 'data', 'set', 'research', 'scholarly', 'activities', 'across', 'life', 'cycle']",0,Apache-2.0 license,28-Jul-21
+3,[],3,"['coursera', 'course', 'johns', 'hopkins', 'specialization']",1,0,23-Jun-14
+3,[],268,"['collecting', 'analyzing', 'visualizing', 'paper', 'trading', 'options', 'market', 'data']",0,BSD-3-Clause license,27-Aug-21
+3,[],204,"['advanced', 'high', 'performance', 'toolbox', 'laurae']",1,0,24-Mar-17
+3,[],115,"['fit', 'models', 'data', 'sherpa']",0,0,8-Nov-21
+3,[],16,"['solutions', 'introduction', 'coursera', 'course', 'problems']",0,0,30-May-13
+3,,22,"['companion', 'code', 'introduction', 'coding', 'naive', 'bayes', 'algorithm', 'evening', 'workshop']",0,0,5-Oct-18
+3,[],6,"['master', 'repository', 'work', 'coursera', 'specialization']",1,0,18-Jan-15
+3,,42,"['labs', 'package', 'includes', 'functions', 'data', 'courses']",1,0,28-Apr-21
+3,,47,"['elasticsearch', 'client', 'tailored', 'workflows']",1,BSD-3-Clause license,25-May-21
+3,,214,"['command', 'line', 'tool', 'easily', 'add', 'ethics', 'checklist', 'projects']",0,MIT license,8-Sep-21
+3,[],53,"['example', 'source', 'code', 'book', 'web', 'scraping']",0,0,6-Nov-19
+3,[],11,"['one', 'popular', 'starter', 'data', 'sets', 'titanic', 'data', 'set', 'data', 'set', 'records', 'var']",1,0,12-Jun-16
+3,[],413,"['datapane', 'easiest', 'way', 'create', 'reports']",0,Apache-2.0 license,8-Oct-21
+3,[],88,"['interesting', 'problems', 'along', 'solutions']",0,0,1-Oct-20
+3,[],0,"['repo', 'contains', 'course', 'project', 'coursera', 'getting', 'cleaning', 'data', 'course', 'part', 'spec']",1,0,27-Apr-14
+3,[],381,"['work', 'analytics', 'research']",1,0,4-Sep-19
+3,,44,"['data', 'preprocessing', 'scripts', 'preprocessed', 'data', 'storage', 'covid', '19', 'scenarios', 'project']",0,0,1-Apr-20
+3,[],46,"['currently', 'taking', 'course', 'coursera', 'org', 'called', 'introduction', 'first', 'programming', 'assignment']",0,0,10-May-13
+3,[],16,"['reproducible', 'rstudio', 'git', 'github']",1,CC-BY-4.0 license,30-Sep-20
+3,,32,"['visualisations', 'machine', 'learning', 'cookbook']",0,GPL-3.0 license,16-Jun-19
+3,[],2,"['repository', 'coursera', 'course', 'getting', 'cleaning', 'data', 'course', 'project']",1,0,10-Sep-14
+3,[],62,"['primitives', 'machine', 'learning']",0,MIT license,9-Nov-21
+3,[],58,"['mit', 'edx', '6', '00', '2x', 'introduction', 'computational', 'thinking', 'problem', 'sets', 'code']",0,0,3-Dec-19
+3,[],22,"['example', 'code', 'cloudera', 'workbench', 'training']",0,Apache-2.0 license,24-Feb-19
+3,[],447,"['bare', 'bones', 'repository', 'demonstrating', 'set', 'tools', 'projects', 'help', 'write', 'higher', 'q']",0,BSD-3-Clause license,13-Nov-18
+3,[],0,"['simple', 'project', 'exploring', 'weather', 'australia', 'used', 'git', 'training', 'course']",1,0,16-Mar-21
+3,[],0,"['repository', 'cmu', 'interactive', 'course']",0,0,22-Feb-18
+3,,92,"['generalized', 'satellite', 'space', 'science', 'data', 'processing', 'file', 'management']",0,BSD-3-Clause license,10-Nov-21
+3,[],66,"['3d', 'convnet', 'classification', 'nodules', 'tumor', 'lung', 'ct', 'scans', 'trained', 'luna16', 'kaggle', '2017']",0,0,4-Jul-17
+3,[],192,"['tools', 'loading', 'standard', 'data', 'sets', 'machine', 'learning']",0,0,3-Oct-18
+3,[],10,"['genomic', '2015', 'coursera', 'johns', 'hopkins', 'university']",0,MIT license,2-Aug-15
+3,[],54,"['code', 'repository', 'blog', 'art', 'science', 'data']",1,0,3-Feb-21
+3,[],40,"['projects', 'using', 'galaxy', 'linux', 'command', 'line', 'analyze', 'sequencing', 'data']",0,0,8-Oct-20
+3,[],56,"['building', 'applications', 'fastapi', 'published', 'packt']",0,MIT license,26-Aug-21
+3,,24,"['algorithms', 'week', 'published', 'packt']",0,MIT license,14-Jan-21
+3,[],0,"['introduction', 'computer', 'science', 'nyu', 'shanghai', 'segment', '3', 'week', '1']",0,0,28-Mar-17
+3,[],3,"['introduction', 'biological', 'data', 'analysis', 'informal', 'participant', 'led', 'seminar', 'basic', 'statistics']",1,0,1-Feb-17
+3,,177,"['thematic', 'list', 'high', 'quality', 'resources']",1,0,24-Oct-21
+3,[],4,"['set', 'projects', 'designed', 'around', 'field', 'checkout']",0,GPL-2.0 license,24-Feb-20
+3,,64,"['deep', 'learning', 'weather', 'forecasting', 'accepted', 'applied', 'kdd', '2019']",0,Apache-2.0 license,25-Aug-21
+3,[],128,"['bioconvert', 'collaborative', 'project', 'facilitate', 'interconversion', 'life', 'science', 'data', 'one', 'format', 'another']",0,0,17-Apr-20
+1,[],21800,"['notebooks', 'deep', 'learning', 'tensorflow', 'theano', 'caffe', 'keras', 'scikit', 'learn', 'kaggle', 'big', 'data', 'spar']",0,0,4-Nov-21
+1,,5700,"['curated', 'list', 'blogs']",0,0,3-Aug-21
+1,[],5200,"['logical', 'reasonably', 'standardized', 'flexible', 'project', 'structure', 'sharing', 'work']",0,MIT license,8-Nov-21
+1,[],4900,"['build', 'manage', 'real', 'life', 'projects', 'ease']",0,Apache-2.0 license,12-Nov-21
+1,[],4700,"['framework', 'creating', 'reproducible', 'maintainable', 'modular', 'code']",0,Apache-2.0 license,12-Nov-21
+1,[],4500,"['toturials', 'coming', 'roadmap', 'picture']",0,GPL-3.0 license,11-Dec-20
+1,[],4400,"['common', 'data', 'analysis', 'machine', 'learning', 'tasks', 'using']",0,MIT license,25-Aug-21
+1,[],2400,"['deepvariant', 'analysis', 'pipeline', 'uses', 'deep', 'neural', 'network', 'call', 'genetic', 'variants', 'next', 'generation', 'dna']",0,BSD-3-Clause license,27-Oct-21
+1,[],1700,"['curated', 'list', 'tutorials', 'nlp', 'machine', 'learning']",1,MIT license,19-Oct-20
+1,,1600,"['readings', 'applied']",1,CC-BY-SA-4.0 license,21-Jun-18
+1,,1500,"['pslab', 'expeyes', 'science', 'experiments', 'data', 'acquisition', 'physics', 'education']",0,GPL-3.0 license,27-Aug-19
+1,[],1300,"['colour', 'science']",0,BSD-3-Clause license,12-Nov-21
+1,[],934,"['library', 'building', 'highly', 'effective', 'workflows']",0,MIT license,6-Oct-21
+1,[],879,"['data', 'intensive', 'science', 'everyone']",0,0,12-Nov-21
+1,[],682,"['pybossa', 'ultimate', 'crowdsourcing', 'framework', 'aka', 'microtasking', 'analyze', 'enrich', 'data', 'processed']",0,0,21-Oct-21
+1,[],681,"['stand', 'alone', 'light', 'weight', 'web', 'server', 'building', 'sharing', 'graphs', 'created', 'ipython', 'build', 'data']",0,GPL-2.0 license,29-Mar-21
+1,[],577,"['peer', 'peer', 'platform', 'secure', 'privacy', 'preserving', 'decentralized']",0,Apache-2.0 license,21-Oct-21
+1,[],566,"['winning', 'solution', 'national', 'bowl', 'competition', 'kaggle', 'plankton', 'classification']",0,MIT license,25-Mar-15
+1,[],529,"['set', 'useful', 'tools', 'competitive']",0,MIT license,22-Oct-21
+1,[],496,"['compiled', 'automatically', 'parallel']",0,Apache-2.0 license,25-Mar-17
+1,[],490,"['sjplot', 'data', 'visualization', 'statistics', 'social', 'science']",1,0,3-Nov-21
+1,[],460,"['powerful', 'format', 'agnostic', 'community', 'driven', 'package', 'analysing', 'visualising', 'earth', 'science', 'data']",0,LGPL-3.0 license,12-Nov-21
+1,[],447,"['bare', 'bones', 'repository', 'demonstrating', 'set', 'tools', 'projects', 'help', 'write', 'higher', 'q']",0,BSD-3-Clause license,13-Nov-18
+1,[],427,"['complete', 'docker', 'package', 'django', 'easy', 'understand', 'deployed', 'anywhere', 'supports']",0,MIT license,5-May-21
+1,,413,"['datapane', 'easiest', 'way', 'create', 'reports']",0,Apache-2.0 license,8-Oct-21
+1,[],381,"['work', 'analytics', 'research']",1,0,4-Sep-19
+1,[],378,"['slides', 'accompanying', 'code', 'exercises', 'stored', 'repo']",0,MIT license,9-May-21
+1,[],371,"['tdsp', 'project', 'template', 'repository', 'standardized', 'directory', 'structure', 'document', 'templates', 'suppor']",1,0,10-Aug-20
+1,[],344,"['code', '2nd', 'place', 'solution', '2017', 'national', 'bowl']",0,0,30-Sep-18
+1,[],330,"['github', 'repository', 'accompany', 'youtube', 'series', 'videos', 'introductory', 'using']",1,0,11-Nov-17
+1,[],326,"['personal', 'machine', 'learning', 'toolbox']",0,MIT license,4-Feb-20
+1,[],315,"['analysis', 'visualization', 'platform', 'omics', 'data']",0,GPL-3.0 license,12-Nov-21
+1,[],301,"['fast', 'aka', 'fds', 'cli', 'data', 'scientists', 'version', 'control', 'data', 'code', 'conveniently', 'wr']",0,MIT license,8-Nov-21
+1,[],295,"['code', 'accompany', 'mastering', 'pt', 'press']",0,Apache-2.0 license,31-May-19
+1,[],270,"['full', 'pipeline', 'competition', 'public', 'version']",0,Apache-2.0 license,5-Sep-21
+1,[],268,"['collecting', 'analyzing', 'visualizing', 'paper', 'trading', 'options', 'market', 'data']",0,BSD-3-Clause license,27-Aug-21
+1,[],232,"['course', 'materials', 'introduction', 'video', 'course', 'rstudio', 'reilly', 'media']",1,0,26-Oct-21
+1,[],231,"['flexible', 'hdf5', 'saving', 'loading', 'tools', 'university', 'chicago']",0,BSD-3-Clause license,23-Sep-21
+1,[],216,"['journal', 'statistical', 'education', 'paper', 'using', 'okcupid', 'data', 'courses']",1,0,26-Apr-21
+1,[],214,"['command', 'line', 'tool', 'easily', 'add', 'ethics', 'checklist', 'projects']",0,MIT license,8-Sep-21
+1,[],204,"['advanced', 'high', 'performance', 'toolbox', 'laurae']",1,0,24-Mar-17
+1,[],198,"['step', 'functions', 'sdk', 'building', 'machine', 'learning', 'ml', 'workflows', 'pipelines', 'aws']",0,Apache-2.0 license,8-Nov-21
+1,,192,"['tools', 'loading', 'standard', 'data', 'sets', 'machine', 'learning']",0,0,3-Oct-18
+1,[],188,"['kuwala', 'tool', 'integrating', 'third', 'party', 'data', 'models', 'products', 'focus', 'geospatial', 'data']",0,Apache-2.0 license,12-Nov-21
+1,,186,"['mypy', 'stubs', 'e', 'type', 'information', 'numpy', 'pandas', 'matplotlib']",0,Apache-2.0 license,16-Feb-21
+1,[],177,"['thematic', 'list', 'high', 'quality', 'resources']",1,0,24-Oct-21
+1,[],177,"['keras', 'tutorial', 'kaggle', '2nd', 'annual', 'bowl']",0,0,17-Feb-16
+1,[],170,"['tool', 'encapsulating', 'running', 'reproducing', 'projects']",0,0,27-Sep-21
+1,[],162,"['curated', 'list', 'awesome', 'colour', 'science', 'resources']",0,0,1-Apr-21
+1,[],159,"['rucio', 'scientific', 'data', 'management']",0,Apache-2.0 license,12-Nov-21
+1,[],150,"['5th', 'place', '816', 'teams', 'solution', '2018', 'bowl', 'organized', 'booz', 'allen', 'hamilton']",0,0,29-Mar-19
+1,,149,"['algorithms', 'qlik', 'implemented', 'server', 'side', 'extension', 'sse']",0,MIT license,10-Feb-21
+1,[],144,"['list', 'colleges', 'universities', 'offering', 'degrees']",0,MIT license,24-Jan-21
+1,[],144,"['collaborate', 'privacy', 'preserving', 'policy', 'projects', 'pandas', 'apache', 'spark']",0,Apache-2.0 license,28-Jul-21
+1,[],137,"['sdk', 'vertex', 'ai', 'fully', 'managed', 'end', 'end', 'platform', 'machine', 'learning']",0,Apache-2.0 license,11-Nov-21
+1,[],135,"['public', 'repo', 'dojo', 'youtube', 'tutorial', 'series', 'introduction', 'text', 'analytics']",1,0,6-Mar-20
+1,[],134,"['complete', 'development', 'platform']",1,Apache-2.0 license,3-May-21
+1,[],131,"['hydroshare', 'collaborative', 'website', 'better', 'access', 'data', 'models', 'hydrologic', 'sciences']",0,BSD-3-Clause license,9-Nov-21
+1,[],128,"['bioconvert', 'collaborative', 'project', 'facilitate', 'interconversion', 'life', 'science', 'data', 'one', 'format', 'another']",0,0,17-Apr-20
+1,[],118,"['repository', 'focuses', 'saving', 'linkedin', 'articles', 'stuff', 'find', 'useful', 'linkedin']",0,0,3-Aug-21
+1,[],116,"['solution', 'win', 'second', 'annual', 'bowl']",0,MIT license,3-Apr-16
+1,[],115,"['code', 'documentation', 'introduction', 'jeffrey', 'stanton']",1,0,11-Jun-12
+1,[],115,"['relational', 'data', 'pipelines', 'science', 'lab']",0,LGPL-2.1 license,1-Nov-21
+1,[],115,"['fit', 'models', 'data', 'sherpa']",0,0,8-Nov-21
+1,[],105,"['twitter', 'sentiment', 'analysis', 'challenge', 'learn', '2', 'sirajology', 'youtube']",0,0,24-Feb-19
+1,[],104,"['wq', 'db', 'library', 'extending', 'django', 'rest', 'framework', 'support', 'apps', 'geospatial', 'field', 'data', 'collection', 'citizen', 'sci']",0,MIT license,21-Oct-21
+1,[],103,"['data', 'analysis', 'reporting', 'tool', 'quick', 'access', 'custom', 'charts', 'tables', 'jupyter', 'notebooks', 'shell']",0,Apache-2.0 license,11-Jun-21
+1,[],102,"['starter', 'reference', 'code', 'interested', 'starting']",0,0,15-Mar-20
+1,[],101,"['pyscaffold', 'extension', 'projects']",0,MIT license,9-Nov-21
+1,[],100,"['automated', 'machine', 'learning', 'library', 'optimize', 'workflow']",0,GPL-3.0 license,2-Nov-21
+1,[],99,"['gender', 'classification', 'challenge', 'learn', '1', 'sirajology', 'youtube']",0,0,8-Nov-17
+1,[],95,"['repository', 'code', 'used', 'kaggle', 'machine', 'learning', 'tasks']",0,MIT license,20-Oct-21
+1,[],94,"['consists', 'examples', 'assignments', 'discussed', 'course', 'taken', 'algorithmica']",0,0,12-Mar-20
+1,[],93,"['share', 'building', 'free', 'open', 'data', 'set', 'research', 'scholarly', 'activities', 'across', 'life', 'cycle']",0,Apache-2.0 license,28-Jul-21
+1,[],92,"['generalized', 'satellite', 'space', 'science', 'data', 'processing', 'file', 'management']",0,BSD-3-Clause license,10-Nov-21
+1,[],90,"['traffic', 'counter', 'designed', 'using', 'opencv', 'library', '3', '5', 'project', 'carried', 'part', 'gover']",0,0,21-Dec-18
+1,[],89,"['template', 'repository', 'lifecycle', 'project']",0,0,2-Jul-20
+1,[],88,"['interesting', 'problems', 'along', 'solutions']",0,0,1-Oct-20
+1,[],87,"['aminer', 'prediction', 'api', 'toolkit', 'science', 'data', 'prediction', 'scholar', 'portrait', 'property', 'prediction']",0,MIT license,16-Sep-19
+1,[],83,"['finding', 'project', 'directories', 'projects', 'like', 'rprojroot', 'packages']",0,MIT license,31-Mar-21
+1,[],82,"['deep', 'dream', 'challenge', 'code', 'sirajology', 'youtube', 'learn', '5']",0,0,6-Nov-16
+1,[],80,"['collaboration', 'platform', 'projects', 'jupyter', 'notebooks']",0,0,21-Oct-21
+1,,78,"['package', 'automated', 'analysis', 'management', 'gridded', 'climate', 'data']",0,Apache-2.0 license,1-Jun-20
+1,[],77,"['package', 'makes', 'basic', 'data', 'exploration', 'radically', 'simple', 'interactive', 'data', 'exploration', 'reproducible']",1,0,3-Jun-21
+1,[],77,"['verticapy', 'library', 'exposes', 'sci', 'kit', 'like', 'functionality', 'conduct', 'projects', 'data', 'stored']",0,Apache-2.0 license,5-Nov-21
+1,,75,"['data', 'analysis', 'tools', 'x', 'ray', 'neutron', 'electron', 'sciences']",0,0,30-Oct-21
+1,[],73,"['papers', 'read', 'discuss']",0,0,24-Feb-21
+1,[],73,"['shell', 'script', 'scrape', 'harvard', 'cs109', 'intro', 'lecture', 'videos']",0,0,29-Jun-16
+1,[],73,"['lifecycle', 'management', 'framework', 'projects']",0,Apache-2.0 license,13-Oct-21
+1,[],72,"['<', '>', 'interfaces', 'popular', 'functions', 'pipelines']",1,GPL-2.0 license,9-Sep-16
+1,[],71,"['flexible', 'template', 'reproducible']",0,MIT license,23-Aug-21
+1,[],71,"['machine', 'learning', 'library', 'ethereum', 'erc', '20', 'blockchain']",0,0,5-Oct-21
+1,[],69,"['source', 'code', 'practical', 'web', 'scraping', 'seppe', 'vanden', 'broucke', 'bart', 'baesens']",0,0,14-May-18
+1,[],68,"['automated', 'customizable', 'preprocessing', 'next', 'generation', 'sequencing', 'data', 'including', 'full', 'sc', 'atac', 'seq', 'chip', 'seq']",0,MIT license,26-Oct-21
+1,[],66,"['3d', 'convnet', 'classification', 'nodules', 'tumor', 'lung', 'ct', 'scans', 'trained', 'luna16', 'kaggle', '2017']",0,0,4-Jul-17
+1,,65,"['package', 'associated', 'education', 'using', 'book']",1,CC-BY-4.0 license,29-Jun-20
+1,[],65,"['personalized', 'real', 'estate', 'recommender', 'system', 'built', 'part', 'final', 'project', 'intensive']",0,0,1-Oct-15
+1,[],64,"['deep', 'learning', 'weather', 'forecasting', 'accepted', 'applied', 'kdd', '2019']",0,Apache-2.0 license,25-Aug-21
+1,[],62,"['primitives', 'machine', 'learning']",0,MIT license,9-Nov-21
+1,[],62,"['7th', 'place', 'solution', '2018', 'bowl', 'score', '0', '591']",0,Apache-2.0 license,21-Aug-19
+1,[],59,"['various', 'forays', 'beer']",1,0,4-Jun-18
+1,,58,"['mit', 'edx', '6', '00', '2x', 'introduction', 'computational', 'thinking', 'problem', 'sets', 'code']",0,0,3-Dec-19
+1,,58,"['collection', 'statistical', 'tools', 'aid', 'competitors', 'kaggle', 'competitions']",0,Apache-2.0 license,22-Jan-18
+1,,58,"['coding', 'exercises', 'problem', 'sets', 'lecture', 'code', 'mitx', '6', '00', '2x', 'introduction', 'computational', 'thinking', 'data', 'sc']",0,0,10-Apr-21
+1,,57,"['end', 'end', 'one', 'class', 'instance', 'segmentation', 'based', 'u', 'net', 'architecture', 'bowl', '2018', 'kaggle']",0,0,17-Apr-18
+1,,56,"['multilingual', 'glossary', 'computing', 'terms']",0,0,10-Nov-21
+1,,56,"['building', 'applications', 'fastapi', 'published', 'packt']",0,MIT license,26-Aug-21
+1,,56,"['package', 'features', 'related', 'tasks', 'developing', 'new', 'recognizers', 'presidio', 'used', 'eval']",0,MIT license,5-Nov-21
+1,,55,['workshop'],0,0,24-Nov-14
+1,,55,"['another', 'yet', 'custom', 'template', 'via', 'cookiecutter']",0,MIT license,21-Aug-21
+1,,54,"['code', 'repository', 'blog', 'art', 'science', 'data']",1,0,3-Feb-21
+1,,54,"['cookiecutter', 'template', 'projects', 'within', 'majesty', 'government', 'wider', 'public', 'sector']",0,0,30-Sep-21
+1,,53,"['example', 'source', 'code', 'book', 'web', 'scraping']",0,0,6-Nov-19
+1,,52,"['core', 'data', 'exchange', 'library', 'subsurface', 'science', 'engineering']",0,Apache-2.0 license,12-Nov-21
+1,,52,"['simple', 'example', 'containerized', 'docker']",0,0,16-Mar-18
+1,,52,"['package', 'practitioners', 'library', 'implements', 'number', 'helpful', 'common', 'data', 'transformations', 'wi']",0,MIT license,10-Jun-21
+1,,51,"['content', 'shared', 'ds', 'ox', 'meetup']",0,0,1-Sep-21
+1,,50,"['reading', 'list', 'fortnightly', 'discussion', 'group', 'designed', 'provoke', 'discussion', 'ethical', 'applications', 'pro']",0,0,12-Nov-21
+1,,48,"['learningorchestra', 'distributed', 'machine', 'learning', 'processing', 'tool', 'facilitates', 'streamlines', 'iterative', 'proces']",0,GPL-3.0 license,9-Oct-21
+1,,48,"['build', 'test', 'deploy', 'iterate', 'dev', 'prod', 'tool', 'pipelines']",0,0,15-Jul-19
+1,,48,"['hypergol', 'machine', 'learning', 'productivity', 'toolkit', 'accelerate', 'projects', 'production', 'auto']",0,MIT license,25-Aug-21
+1,,47,"['elasticsearch', 'client', 'tailored', 'workflows']",1,BSD-3-Clause license,25-May-21
+1,,46,"['project', 'athens', 'edmc', 'plugin', 'automatically', 'collect', 'accurate', 'science', 'data', 'galaxy', 'coordinate', 'missions']",0,GPL-3.0 license,15-Oct-21
+1,[],46,"['currently', 'taking', 'course', 'coursera', 'org', 'called', 'introduction', 'first', 'programming', 'assignment']",0,0,10-May-13
+1,,44,"['4th', 'place', 'solution', '2018', 'bowl', 'kaggle', 'competition']",0,0,17-Aug-18
+1,,44,"['data', 'preprocessing', 'scripts', 'preprocessed', 'data', 'storage', 'covid', '19', 'scenarios', 'project']",0,0,1-Apr-20
+1,,43,"['web', 'project', 'implemented', 'django', 'framework']",0,MIT license,22-Sep-21
+1,,43,"['lumin', 'deep', 'learning', 'ecosystem', 'high', 'energy', 'physics']",0,Apache-2.0 license,8-Nov-21
+1,,42,"['labs', 'package', 'includes', 'functions', 'data', 'courses']",1,0,28-Apr-21
+1,,42,"['source', 'team', 'ant', 'partnered', 'venturenix', 'lab']",0,0,24-Jul-21
+1,[],42,"['tool', 'creating', 'deploying', 'pipelines', 'versioned', 'data']",0,Apache-2.0 license,12-Nov-21
+1,,42,"['collection', 'convenient', 'methods', 'competition']",0,GPL-3.0 license,26-Jan-21
+1,,42,"['files', 'mentioned', 'article', 'towards', 'neural', 'network', 'landsat', 'classification', 'using', 'tensor']",0,MIT license,21-Sep-20
+1,,41,"['cf', 'compliant', 'earth', 'science', 'data', 'analysis', 'library']",0,MIT license,12-Nov-21
+1,,41,"['unet', 'pytorch', 'kaggle', '2018', 'bowl', 'nuclei', 'segmentation']",0,MIT license,19-Feb-19
+1,,40,"['projects', 'using', 'galaxy', 'linux', 'command', 'line', 'analyze', 'sequencing', 'data']",0,0,8-Oct-20
+1,,40,"['umichigan', 'coursera', 'intro', 'ds', 'course']",0,0,3-Oct-20
+1,[],40,"['nlp', 'tutorial', 'berlin', 'retreat']",0,0,10-Mar-16
+1,,39,"['generating', 'next', 'read', 'book', 'club']",0,Apache-2.0 license,6-Feb-16
+1,,39,"['bowl', '2017', 'lung', 'cancer', 'detection']",0,0,9-May-17
+1,,39,"['automated', 'backward', 'forward', 'selection']",0,0,12-Nov-20
+1,,38,"['webapp', 'show', 'capabilities', 'flask', 'libraries', 'sklearn', 'pandas', 'matplotlib', 'seab']",0,MIT license,1-Oct-20
+1,,38,"['public', 'github', 'repository', 'dojo', 'webinar', 'titled', 'introduction', 'data', 'visualization']",1,0,28-Jun-17
+1,,37,"['algorithms', 'topics', 'must', 'know', 'newly', 'designed', 'recommender', 'systems', 'decision', 'trees', 'k', 'means']",0,0,1-Oct-21
+1,,37,"['interface', 'data', 'retriever']",1,0,11-Feb-21
+1,,37,"['resporatory', 'ml', 'ai', 'nlp', 'etc', 'language', 'related', 'material', 'many', 'websites', 'eg', 'datacamp', 'gee']",0,MIT license,30-Oct-21
+1,,36,"['package', 'download', 'regularly', 'maintained', 'political', 'science', 'data', 'sets', 'make', 'commonly', 'used', 'infrequently']",1,0,26-Oct-21
+1,,34,"['advanced', 'toolkit', 'non', 'data', 'scientists']",0,MIT license,18-May-21
+1,,34,"['companion', 'package', 'course', 'box']",1,0,10-Nov-21
+1,,34,"['repo', 'full', 'computer', 'science', 'theory', 'used', 'coding', 'interviews', 'including', 'data', 'structures', 'sort', 'searc']",0,0,5-Oct-19
+1,,34,"['elastic', 'reproducible', 'reusable', 'genomic', 'tools', 'backed', 'cloud', 'resources']",1,0,27-Oct-21
+1,,33,"['helpful', 'resources', 'big']",1,CC-BY-SA-4.0 license,15-Aug-21
